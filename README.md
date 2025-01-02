@@ -78,31 +78,3 @@ nama = "Budi"
 ada_dalam_daftar = nama in daftar_nama
 print("Apakah Budi ada dalam daftar?", ada_dalam_daftar)  # True
 ```
-
----
-
-## Cara Kerja
-
-### Langkah Pengembangan
-1. Setiap anggota membuat branch sesuai tugas masing-masing.
-   - Anggota A: `arith-assign`
-   - Anggota B: `compare`
-   - Anggota C: `logic-membership`
-
-2. Tambahkan contoh kode di branch masing-masing.
-3. Lakukan commit dan push ke repository remote.
-4. Setelah selesai, merge branch ke `main`.
-
-### Menggabungkan Branch
-Gunakan perintah berikut untuk menggabungkan branch:
-```bash
-git checkout main
-git merge arith-assign
-git merge compare
-git merge logic-membership
-git push origin main
-```
-
-## Catatan
-- Harap memastikan kode telah diuji sebelum di-commit.
-- Resolusi konflik dilakukan bersama jika terdapat perbedaan pada file yang sama.
