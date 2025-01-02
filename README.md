@@ -4,9 +4,9 @@ Project team-3 untuk tugas alpro ke-1
 ## Struktur Proyek
 
 ### 1. **Anggota A: Operator Aritmatika dan Penugasan**
-**Nama:** [Isi nama Anggota A] 
-**Nim:** [Isi nim Anggota A]
-**Branch:** `arith-assign`
+**Nama:** [Isi nama Anggota A] </br>
+**Nim:** [Isi nim Anggota A] </br>
+**Branch:** `arith-assign` </br>
 
 #### Deskripsi
 Anggota A bertanggung jawab untuk memberikan contoh penggunaan:
@@ -29,9 +29,9 @@ print("Hasil ekspresi penugasan:", x)  # 20
 ---
 
 ### 2. **Anggota B: Operator Perbandingan**
-**Nama:** Muhammad Radja Rivaldi 
-**Nim:** I.2410157
-**Branch:** `compare`
+**Nama:** Muhammad Radja Rivaldi </br>
+**Nim:** I.2410157 </br>
+**Branch:** `compare` </br>
 
 #### Deskripsi
 Anggota B bertanggung jawab untuk memberikan contoh penggunaan:
@@ -53,9 +53,9 @@ print("Apakah nilai sangat tinggi?", nilai_tinggi)  # False
 ---
 
 ### 3. **Anggota C: Operator Logika dan Keanggotaan**
-**Nama:** [Isi nama Anggota C] 
-**Nim:** [Isi nim Anggota C]
-**Branch:** `logic-membership`
+**Nama:** [Isi nama Anggota C] </br>
+**Nim:** [Isi nim Anggota C]  </br>
+**Branch:** `logic-membership` </br>
 
 #### Deskripsi
 Anggota C bertanggung jawab untuk memberikan contoh penggunaan:
