@@ -1,11 +1,11 @@
-Struktur Proyek
-1. Operator Aritmatika dan Penugasan
-Nama: Hanief Bintang Tri Buana
-Nim: I.2410153
-Branch: arith-assign
+Struktur Proyek </br>
+1. Operator Aritmatika dan Penugasan </br>
+Nama: Hanief Bintang Tri Buana </br>
+Nim: I.2410153 </br>
+Branch: arith-assign </br>
 
-Deskripsi
-Anggota A bertanggung jawab untuk memberikan contoh penggunaan:
+Deskripsi </br>
+Anggota A bertanggung jawab untuk memberikan contoh penggunaan: </br>
 
-Operator Aritmatika: Penjumlahan, pengurangan, perkalian, pembagian, dan modulus.
-Operator Penugasan: Contoh seperti +=, *=, dll.
+Operator Aritmatika: Penjumlahan, pengurangan, perkalian, pembagian, dan modulus. </br>
+Operator Penugasan: Contoh seperti +=, *=, dll. </br>
