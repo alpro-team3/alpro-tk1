@@ -1,11 +1,11 @@
-# alpro-tk1
-Project team-3 untuk tugas alpro ke-1
+Struktur Proyek
+1. Operator Aritmatika dan Penugasan
+Nama: Hanief Bintang Tri Buana
+Nim: I.2410153
+Branch: arith-assign
 
-Nama        : Muhammad Radja Rivaldi <br/>
-Nim         : I.2410157 <br/>
+Deskripsi
+Anggota A bertanggung jawab untuk memberikan contoh penggunaan:
 
-Nama        : Hanief Bintang Tri Buana <br/>
-Nim         : I.2410153 <br/>
-
-Nama        : Paisal Nugraha <br/>
-Nim         : I.2410034 <br/>
+Operator Aritmatika: Penjumlahan, pengurangan, perkalian, pembagian, dan modulus.
+Operator Penugasan: Contoh seperti +=, *=, dll.
