@@ -4,8 +4,8 @@ Project team-3 untuk tugas alpro ke-1
 ## Struktur Proyek
 
 ### 1. **Anggota A: Operator Aritmatika dan Penugasan**
-**Nama:** [Isi nama Anggota A] </br>
-**Nim:** [Isi nim Anggota A] </br>
+**Nama:** Hanief Bintang Tri Buana </br>
+**Nim:** I.2410153 </br>
 **Branch:** `arith-assign` </br>
 
 #### Deskripsi
